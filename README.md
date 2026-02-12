@@ -44,8 +44,6 @@ Medical-Chatbot-using-Langchain/
 - **OpenAI Embeddings (text-embedding-3-small)**
 - **Pinecone Vector Database**
 - **FastAPI**
-- **Docker**
-- **AWS (Planned Deployment)**
 
 ---
 
